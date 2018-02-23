@@ -1,0 +1,463 @@
+"","construct","question","target","s01","s02","s03","s04","s05","s06","s07","s08","s09","s10","s11"
+"1","aggressive","Is aggressive","tar07",1,2,1,1,1,1,1,1,1,1,1
+"2","aggressive","Is aggressive","tar08",1,5,1,4,3,1,1,1,1,4,1
+"3","aggressive","Is aggressive","tar01",1,1,2,1,1,1,1,1,2,4,1
+"4","aggressive","Is aggressive","tar04",2,1,2,4,1,1,1,1,1,4,1
+"5","aggressive","Is aggressive","tar10",1,2,2,3,4,2,2,1,2,3,1
+"6","aggressive","Is aggressive","tar03",1,1,2,2,2,2,1,1,1,1,1
+"7","aggressive","Is aggressive","tar11",1,4,2,2,1,1,1,1,2,4,1
+"8","aggressive","Is aggressive","tar02",1,3,1,3,1,2,2,1,1,2,1
+"9","aggressive","Is aggressive","tar09",1,2,1,1,1,1,1,1,1,1,2
+"10","aggressive","Is aggressive","tar06",1,1,1,1,1,2,1,1,1,1,1
+"11","aggressive","Is aggressive","tar05",1,1,2,1,1,1,1,1,1,1,1
+"12","agreeableness","Critical, quarrelsome","tar07",5,4,5,3,2,4,3,4,5,5,4
+"13","agreeableness","Critical, quarrelsome","tar08",4,1,4,2,3,5,5,4,5,1,2
+"14","agreeableness","Critical, quarrelsome","tar01",5,4,3,5,4,5,4,4,4,4,4
+"15","agreeableness","Critical, quarrelsome","tar04",4,2,1,2,3,5,2,4,3,2,4
+"16","agreeableness","Critical, quarrelsome","tar10",4,5,5,2,3,4,3,4,4,4,4
+"17","agreeableness","Critical, quarrelsome","tar03",4,5,2,4,4,4,5,4,5,5,5
+"18","agreeableness","Critical, quarrelsome","tar11",4,4,3,5,5,4,5,5,4,4,3
+"19","agreeableness","Critical, quarrelsome","tar02",4,3,2,3,4,4,4,4,3,4,4
+"20","agreeableness","Critical, quarrelsome","tar09",4,5,3,5,4,4,4,4,5,5,4
+"21","agreeableness","Critical, quarrelsome","tar06",5,5,4,5,4,4,5,5,5,5,5
+"22","agreeableness","Critical, quarrelsome","tar05",5,4,4,5,4,4,5,4,5,5,5
+"23","agreeableness","Sympathetic, warm","tar07",4,3,4,3,2,4,3,3,3,3,2
+"24","agreeableness","Sympathetic, warm","tar08",2,1,4,2,2,5,4,3,1,1,4
+"25","agreeableness","Sympathetic, warm","tar01",3,1,2,1,2,4,2,2,1,2,2
+"26","agreeableness","Sympathetic, warm","tar04",3,3,1,3,2,4,3,2,3,1,2
+"27","agreeableness","Sympathetic, warm","tar10",4,4,5,4,3,4,5,3,5,4,4
+"28","agreeableness","Sympathetic, warm","tar03",3,4,3,4,4,4,4,4,5,5,3
+"29","agreeableness","Sympathetic, warm","tar11",3,3,4,4,3,4,4,3,2,4,5
+"30","agreeableness","Sympathetic, warm","tar02",5,5,2,4,3,4,5,4,5,5,5
+"31","agreeableness","Sympathetic, warm","tar09",3,3,4,4,2,5,2,3,4,4,3
+"32","agreeableness","Sympathetic, warm","tar06",3,3,3,3,3,4,3,3,3,2,3
+"33","agreeableness","Sympathetic, warm","tar05",5,2,4,3,1,4,3,4,5,4,3
+"34","attractive","Is attractive","tar07",3,3,3,2,1,3,3,3,3,2,3
+"35","attractive","Is attractive","tar08",2,1,1,1,1,4,3,2,1,1,2
+"36","attractive","Is attractive","tar01",4,3,2,2,3,3,2,4,3,4,4
+"37","attractive","Is attractive","tar04",5,5,4,4,5,5,4,5,4,5,4
+"38","attractive","Is attractive","tar10",5,5,5,5,4,4,4,3,5,5,4
+"39","attractive","Is attractive","tar03",4,4,3,4,4,4,4,5,4,3,4
+"40","attractive","Is attractive","tar11",4,5,4,4,4,5,4,4,3,5,4
+"41","attractive","Is attractive","tar02",4,4,2,4,3,5,4,4,3,2,4
+"42","attractive","Is attractive","tar09",4,5,5,5,3,5,4,4,1,5,4
+"43","attractive","Is attractive","tar06",4,4,4,3,1,4,4,4,4,4,4
+"44","attractive","Is attractive","tar05",4,4,4,3,4,3,4,5,4,3,4
+"45","caring","Is caring","tar07",4,4,4,2,2,4,3,4,3,4,4
+"46","caring","Is caring","tar08",2,2,4,1,2,5,4,3,3,2,4
+"47","caring","Is caring","tar01",4,3,2,1,2,4,3,3,2,2,3
+"48","caring","Is caring","tar04",3,4,2,4,1,4,2,3,4,1,3
+"49","caring","Is caring","tar10",4,3,4,5,1,5,4,3,4,3,4
+"50","caring","Is caring","tar03",4,4,4,3,3,5,5,4,4,4,3
+"51","caring","Is caring","tar11",3,3,4,2,2,3,3,3,3,3,5
+"52","caring","Is caring","tar02",5,5,3,5,4,4,5,4,5,5,5
+"53","caring","Is caring","tar09",3,5,4,4,2,5,5,3,4,4,4
+"54","caring","Is caring","tar06",3,3,4,3,2,5,4,3,3,4,3
+"55","caring","Is caring","tar05",4,3,3,3,1,3,3,3,3,3,4
+"56","competence","Is competent ","tar07",5,5,5,5,5,5,4,5,5,5,5
+"57","competence","Is competent ","tar08",4,4,4,5,5,5,4,5,3,3,5
+"58","competence","Is competent ","tar01",4,4,4,4,4,5,4,5,4,3,5
+"59","competence","Is competent ","tar04",5,4,5,5,5,5,5,5,5,3,5
+"60","competence","Is competent ","tar10",5,4,5,5,4,5,4,4,5,4,5
+"61","competence","Is competent ","tar03",4,3,4,5,4,5,3,5,5,3,5
+"62","competence","Is competent ","tar11",4,4,4,4,4,5,4,3,4,3,4
+"63","competence","Is competent ","tar02",5,5,5,5,5,5,4,5,5,4,5
+"64","competence","Is competent ","tar09",4,3,5,5,2,5,4,4,5,3,4
+"65","competence","Is competent ","tar06",4,3,4,5,4,5,5,4,5,4,5
+"66","competence","Is competent ","tar05",4,5,4,5,5,4,4,5,5,3,5
+"67","competence","Is confident","tar07",5,5,5,4,4,5,4,4,5,5,5
+"68","competence","Is confident","tar08",4,4,4,5,5,5,4,4,4,5,3
+"69","competence","Is confident","tar01",3,3,3,3,4,4,2,4,4,5,3
+"70","competence","Is confident","tar04",4,4,4,5,5,4,3,4,3,2,3
+"71","competence","Is confident","tar10",5,5,5,5,2,5,4,5,5,5,5
+"72","competence","Is confident","tar03",4,1,2,3,5,4,1,5,4,2,3
+"73","competence","Is confident","tar11",2,2,5,3,2,4,2,1,4,4,3
+"74","competence","Is confident","tar02",4,3,4,3,4,4,3,5,5,2,4
+"75","competence","Is confident","tar09",3,1,3,2,1,4,2,2,1,1,1
+"76","competence","Is confident","tar06",3,3,5,3,3,4,4,2,3,2,2
+"77","competence","Is confident","tar05",4,3,4,3,5,4,4,3,4,4,4
+"78","competence","Is independent","tar07",4,5,5,5,3,5,4,4,5,4,5
+"79","competence","Is independent","tar08",5,4,4,5,4,4,5,5,4,4,5
+"80","competence","Is independent","tar01",5,5,4,4,4,4,4,4,5,5,4
+"81","competence","Is independent","tar04",4,5,5,5,4,5,5,4,5,5,5
+"82","competence","Is independent","tar10",4,2,5,4,2,5,3,3,5,3,5
+"83","competence","Is independent","tar03",4,2,2,4,4,4,2,4,3,2,4
+"84","competence","Is independent","tar11",4,5,4,4,4,5,5,3,4,2,5
+"85","competence","Is independent","tar02",4,4,4,5,4,5,5,5,5,3,5
+"86","competence","Is independent","tar09",5,5,4,4,2,5,5,3,4,5,5
+"87","competence","Is independent","tar06",3,2,4,3,3,5,5,2,5,4,3
+"88","competence","Is independent","tar05",4,5,4,4,5,4,4,4,5,5,5
+"89","competence","Is intelligent","tar07",5,5,5,5,5,5,4,5,5,5,5
+"90","competence","Is intelligent","tar08",4,5,4,4,4,5,4,5,2,3,5
+"91","competence","Is intelligent","tar01",4,4,4,3,4,4,4,5,5,4,5
+"92","competence","Is intelligent","tar04",5,5,4,5,5,5,5,5,5,5,5
+"93","competence","Is intelligent","tar10",5,4,5,5,3,5,4,5,5,4,5
+"94","competence","Is intelligent","tar03",4,3,4,4,4,5,4,5,3,4,5
+"95","competence","Is intelligent","tar11",4,4,4,4,4,5,4,5,4,3,5
+"96","competence","Is intelligent","tar02",5,4,5,5,5,5,4,5,5,5,5
+"97","competence","Is intelligent","tar09",5,5,5,5,2,4,5,5,3,4,5
+"98","competence","Is intelligent","tar06",4,3,4,4,3,4,4,5,5,3,5
+"99","competence","Is intelligent","tar05",4,5,4,4,5,4,4,5,4,4,5
+"100","conscientiousness","Dependable, self-disciplined","tar07",5,5,5,5,5,5,4,3,5,4,5
+"101","conscientiousness","Dependable, self-disciplined","tar08",4,5,4,5,4,5,3,4,4,4,3
+"102","conscientiousness","Dependable, self-disciplined","tar01",3,4,3,2,4,4,4,4,3,3,3
+"103","conscientiousness","Dependable, self-disciplined","tar04",5,4,5,4,4,5,4,3,5,4,4
+"104","conscientiousness","Dependable, self-disciplined","tar10",4,4,4,5,4,5,4,3,5,4,4
+"105","conscientiousness","Dependable, self-disciplined","tar03",4,4,4,3,4,4,4,3,3,5,3
+"106","conscientiousness","Dependable, self-disciplined","tar11",4,3,4,3,3,4,3,3,4,3,3
+"107","conscientiousness","Dependable, self-disciplined","tar02",5,5,5,5,4,5,5,4,5,5,5
+"108","conscientiousness","Dependable, self-disciplined","tar09",4,2,5,2,3,4,5,3,3,4,3
+"109","conscientiousness","Dependable, self-disciplined","tar06",3,3,4,4,4,4,5,2,5,2,4
+"110","conscientiousness","Dependable, self-disciplined","tar05",4,4,4,3,4,4,3,4,3,2,2
+"111","conscientiousness","Disorganized, careless","tar07",5,5,4,5,4,5,4,4,5,4,5
+"112","conscientiousness","Disorganized, careless","tar08",5,5,4,5,4,5,4,4,5,5,5
+"113","conscientiousness","Disorganized, careless","tar01",3,4,3,3,3,5,3,4,5,3,4
+"114","conscientiousness","Disorganized, careless","tar04",4,2,5,3,4,5,3,3,5,5,4
+"115","conscientiousness","Disorganized, careless","tar10",4,4,3,5,4,4,3,3,4,2,5
+"116","conscientiousness","Disorganized, careless","tar03",5,3,4,4,3,5,4,4,4,5,4
+"117","conscientiousness","Disorganized, careless","tar11",4,5,2,3,4,5,2,3,3,3,5
+"118","conscientiousness","Disorganized, careless","tar02",5,5,4,5,3,5,4,4,5,4,5
+"119","conscientiousness","Disorganized, careless","tar09",4,2,5,4,2,5,5,4,4,4,4
+"120","conscientiousness","Disorganized, careless","tar06",4,3,5,5,4,5,4,3,5,4,4
+"121","conscientiousness","Disorganized, careless","tar05",4,3,4,3,4,5,3,4,4,3,4
+"122","dominant","Is dominant","tar07",3,3,4,2,3,4,4,3,1,2,5
+"123","dominant","Is dominant","tar08",2,5,2,4,4,3,1,3,4,5,2
+"124","dominant","Is dominant","tar01",2,2,2,1,3,3,2,2,1,4,3
+"125","dominant","Is dominant","tar04",3,4,3,4,4,3,2,3,2,4,2
+"126","dominant","Is dominant","tar10",4,4,5,5,4,5,4,4,4,4,5
+"127","dominant","Is dominant","tar03",2,1,2,3,3,4,1,3,2,1,3
+"128","dominant","Is dominant","tar11",1,4,4,1,3,4,2,2,3,4,4
+"129","dominant","Is dominant","tar02",3,3,3,4,5,4,4,4,3,4,4
+"130","dominant","Is dominant","tar09",2,2,2,1,1,3,2,2,1,2,4
+"131","dominant","Is dominant","tar06",1,1,2,1,1,4,1,1,1,1,1
+"132","dominant","Is dominant","tar05",2,1,2,1,4,3,2,2,1,1,1
+"133","emotionally stable","Is emotionally stable","tar07",4,5,4,4,3,5,4,3,5,5,5
+"134","emotionally stable","Is emotionally stable","tar08",4,2,2,2,4,5,4,4,3,3,4
+"135","emotionally stable","Is emotionally stable","tar01",4,2,4,4,4,5,4,4,4,5,3
+"136","emotionally stable","Is emotionally stable","tar04",4,5,4,4,5,5,5,3,4,2,3
+"137","emotionally stable","Is emotionally stable","tar10",4,3,4,5,1,4,4,3,4,5,4
+"138","emotionally stable","Is emotionally stable","tar03",3,3,2,4,4,5,3,3,4,3,4
+"139","emotionally stable","Is emotionally stable","tar11",3,2,3,3,2,4,3,3,2,4,4
+"140","emotionally stable","Is emotionally stable","tar02",3,3,2,2,2,4,3,4,2,1,4
+"141","emotionally stable","Is emotionally stable","tar09",4,2,3,2,2,4,3,3,4,4,1
+"142","emotionally stable","Is emotionally stable","tar06",4,4,4,3,3,4,4,4,4,4,3
+"143","emotionally stable","Is emotionally stable","tar05",4,5,3,4,5,4,3,4,3,4,4
+"144","extraversion","Extraverted, enthusiastic","tar07",5,4,4,3,3,4,4,4,2,5,4
+"145","extraversion","Extraverted, enthusiastic","tar08",2,1,2,2,1,4,2,2,3,2,2
+"146","extraversion","Extraverted, enthusiastic","tar01",2,1,3,1,2,3,3,2,1,3,2
+"147","extraversion","Extraverted, enthusiastic","tar04",2,3,2,4,2,3,4,3,2,2,2
+"148","extraversion","Extraverted, enthusiastic","tar10",5,5,5,5,5,5,5,5,5,5,5
+"149","extraversion","Extraverted, enthusiastic","tar03",4,4,3,3,4,4,2,4,2,3,3
+"150","extraversion","Extraverted, enthusiastic","tar11",3,1,4,2,1,4,2,2,3,4,2
+"151","extraversion","Extraverted, enthusiastic","tar02",5,3,3,3,5,5,4,4,1,4,3
+"152","extraversion","Extraverted, enthusiastic","tar09",2,1,2,2,2,4,3,2,1,2,1
+"153","extraversion","Extraverted, enthusiastic","tar06",2,4,2,2,1,4,2,2,1,1,2
+"154","extraversion","Extraverted, enthusiastic","tar05",5,2,3,3,1,4,4,2,4,3,3
+"155","extraversion","Reserved, quiet","tar07",5,4,5,4,4,3,3,3,2,5,2
+"156","extraversion","Reserved, quiet","tar08",1,1,2,2,2,4,2,2,2,2,1
+"157","extraversion","Reserved, quiet","tar01",2,1,3,2,3,3,2,2,1,2,1
+"158","extraversion","Reserved, quiet","tar04",2,2,5,4,3,3,2,2,3,3,1
+"159","extraversion","Reserved, quiet","tar10",5,5,5,5,5,5,4,5,5,5,5
+"160","extraversion","Reserved, quiet","tar03",3,1,2,3,4,4,2,4,3,3,3
+"161","extraversion","Reserved, quiet","tar11",4,3,1,4,2,4,3,1,5,4,4
+"162","extraversion","Reserved, quiet","tar02",5,4,3,4,5,4,4,5,3,5,3
+"163","extraversion","Reserved, quiet","tar09",1,1,2,2,3,3,1,1,1,2,1
+"164","extraversion","Reserved, quiet","tar06",2,1,2,3,2,3,2,1,1,1,1
+"165","extraversion","Reserved, quiet","tar05",4,2,4,3,1,3,3,2,1,1,2
+"166","friendship","You are friends with them","tar07",4,5,4,3,2,4,4,2,4,5,3
+"167","friendship","You are friends with them","tar08",1,1,3,1,4,4,2,5,1,1,2
+"168","friendship","You are friends with them","tar01",4,2,4,1,2,3,4,2,2,3,2
+"169","friendship","You are friends with them","tar04",4,3,3,5,3,3,5,2,4,5,2
+"170","friendship","You are friends with them","tar10",4,5,4,5,3,4,5,2,5,5,4
+"171","friendship","You are friends with them","tar03",4,1,5,2,2,5,3,4,4,4,2
+"172","friendship","You are friends with them","tar11",4,5,2,1,3,3,3,2,4,5,5
+"173","friendship","You are friends with them","tar02",4,5,3,3,4,4,5,3,5,5,5
+"174","friendship","You are friends with them","tar09",3,5,4,3,3,4,5,2,1,5,3
+"175","friendship","You are friends with them","tar06",1,2,5,2,1,5,3,3,2,3,1
+"176","friendship","You are friends with them","tar05",2,3,3,1,4,2,2,4,2,2,2
+"177","knowing","You  would be able to predict how they would act in a situation","tar07",4,4,4,4,2,4,4,2,4,4,3
+"178","knowing","You  would be able to predict how they would act in a situation","tar08",2,5,2,2,4,4,3,5,2,4,4
+"179","knowing","You  would be able to predict how they would act in a situation","tar01",5,3,2,3,2,2,3,2,3,4,2
+"180","knowing","You  would be able to predict how they would act in a situation","tar04",4,2,4,5,3,3,3,2,4,5,2
+"181","knowing","You  would be able to predict how they would act in a situation","tar10",4,5,4,5,5,4,4,5,5,5,4
+"182","knowing","You  would be able to predict how they would act in a situation","tar03",4,1,5,3,3,4,3,4,3,4,1
+"183","knowing","You  would be able to predict how they would act in a situation","tar11",3,5,3,2,3,4,3,2,5,4,5
+"184","knowing","You  would be able to predict how they would act in a situation","tar02",4,5,3,4,4,5,4,4,5,5,5
+"185","knowing","You  would be able to predict how they would act in a situation","tar09",3,5,4,5,4,4,4,2,5,5,3
+"186","knowing","You  would be able to predict how they would act in a situation","tar06",1,2,4,1,1,5,2,2,2,3,2
+"187","knowing","You  would be able to predict how they would act in a situation","tar05",3,3,1,2,4,2,2,4,1,1,1
+"188","knowing","You feel like you know how they think","tar07",4,5,4,4,4,5,5,2,3,4,2
+"189","knowing","You feel like you know how they think","tar08",1,4,2,1,5,4,1,5,2,1,2
+"190","knowing","You feel like you know how they think","tar01",5,3,2,1,2,2,3,2,3,1,1
+"191","knowing","You feel like you know how they think","tar04",4,3,2,5,4,3,4,2,3,5,1
+"192","knowing","You feel like you know how they think","tar10",4,5,4,5,5,5,4,3,4,5,3
+"193","knowing","You feel like you know how they think","tar03",4,1,5,3,2,5,2,2,2,3,1
+"194","knowing","You feel like you know how they think","tar11",3,5,2,2,4,4,3,2,4,4,5
+"195","knowing","You feel like you know how they think","tar02",4,5,2,4,5,5,4,3,5,5,4
+"196","knowing","You feel like you know how they think","tar09",3,5,4,4,4,4,4,1,5,5,2
+"197","knowing","You feel like you know how they think","tar06",1,1,4,1,1,5,2,3,2,2,1
+"198","knowing","You feel like you know how they think","tar05",3,5,2,2,5,2,2,2,1,1,2
+"199","knowing","You feel like you know them","tar07",4,5,5,3,2,5,5,1,4,5,4
+"200","knowing","You feel like you know them","tar08",2,2,4,1,4,4,1,5,2,1,2
+"201","knowing","You feel like you know them","tar01",5,3,5,1,3,3,4,2,3,4,3
+"202","knowing","You feel like you know them","tar04",4,3,4,5,3,3,5,2,3,5,2
+"203","knowing","You feel like you know them","tar10",4,5,5,5,5,5,5,3,5,5,5
+"204","knowing","You feel like you know them","tar03",4,1,5,3,2,4,3,3,3,3,1
+"205","knowing","You feel like you know them","tar11",3,5,2,2,3,3,4,2,4,5,5
+"206","knowing","You feel like you know them","tar02",4,5,4,4,4,4,5,3,4,5,5
+"207","knowing","You feel like you know them","tar09",4,5,4,3,3,4,5,2,5,5,5
+"208","knowing","You feel like you know them","tar06",1,2,5,2,1,5,3,1,3,3,1
+"209","knowing","You feel like you know them","tar05",3,3,2,2,5,1,2,3,2,1,2
+"210","knowing","You have a good sense of who they are as a person","tar07",4,5,4,4,4,5,5,1,5,5,4
+"211","knowing","You have a good sense of who they are as a person","tar08",2,4,3,1,4,4,2,5,3,2,4
+"212","knowing","You have a good sense of who they are as a person","tar01",5,2,3,2,2,3,4,3,4,4,3
+"213","knowing","You have a good sense of who they are as a person","tar04",4,3,4,5,4,3,5,2,5,5,2
+"214","knowing","You have a good sense of who they are as a person","tar10",4,5,4,5,5,5,5,4,5,5,4
+"215","knowing","You have a good sense of who they are as a person","tar03",4,1,5,3,2,5,4,4,3,4,1
+"216","knowing","You have a good sense of who they are as a person","tar11",4,5,2,2,3,3,4,3,5,5,5
+"217","knowing","You have a good sense of who they are as a person","tar02",5,5,3,5,4,4,5,4,5,5,5
+"218","knowing","You have a good sense of who they are as a person","tar09",4,5,5,4,4,5,5,1,5,5,4
+"219","knowing","You have a good sense of who they are as a person","tar06",1,1,4,2,2,5,2,2,2,3,2
+"220","knowing","You have a good sense of who they are as a person","tar05",4,3,2,2,4,2,3,3,3,2,3
+"221","liking","You would like to be closer friends with them","tar07",4,5,3,3,1,5,4,2,4,5,4
+"222","liking","You would like to be closer friends with them","tar08",2,1,2,1,2,5,3,5,1,1,2
+"223","liking","You would like to be closer friends with them","tar01",3,2,3,1,2,4,3,3,4,4,3
+"224","liking","You would like to be closer friends with them","tar04",3,2,4,5,4,5,4,2,4,5,3
+"225","liking","You would like to be closer friends with them","tar10",4,2,5,4,1,5,3,1,4,3,1
+"226","liking","You would like to be closer friends with them","tar03",4,2,5,3,3,5,3,3,5,4,4
+"227","liking","You would like to be closer friends with them","tar11",4,5,1,3,4,5,3,2,5,4,3
+"228","liking","You would like to be closer friends with them","tar02",4,5,3,3,4,5,4,2,4,4,4
+"229","liking","You would like to be closer friends with them","tar09",4,5,4,5,1,5,4,2,5,4,4
+"230","liking","You would like to be closer friends with them","tar06",2,2,4,4,1,5,4,3,4,5,3
+"231","liking","You would like to be closer friends with them","tar05",4,5,2,3,1,4,4,4,5,5,4
+"232","mean","Is mean","tar07",1,2,2,2,4,1,1,1,1,3,3
+"233","mean","Is mean","tar08",1,4,1,4,3,1,1,1,2,5,3
+"234","mean","Is mean","tar01",1,1,2,2,3,1,1,2,2,3,3
+"235","mean","Is mean","tar04",2,1,1,2,3,1,1,2,2,4,2
+"236","mean","Is mean","tar10",1,3,1,1,3,1,1,1,1,2,2
+"237","mean","Is mean","tar03",1,1,2,1,2,1,1,1,1,1,1
+"238","mean","Is mean","tar11",1,2,2,1,2,1,1,1,2,3,2
+"239","mean","Is mean","tar02",1,3,2,2,2,1,1,1,1,1,2
+"240","mean","Is mean","tar09",1,1,1,1,3,1,1,1,1,1,1
+"241","mean","Is mean","tar06",1,1,2,1,2,1,1,1,1,1,2
+"242","mean","Is mean","tar05",1,1,2,1,4,1,1,1,1,1,1
+"243","neuroticism","Anxious, easily upset","tar07",1,2,1,2,2,1,2,3,1,1,3
+"244","neuroticism","Anxious, easily upset","tar08",2,3,2,4,2,1,2,3,2,4,5
+"245","neuroticism","Anxious, easily upset","tar01",2,2,1,2,3,1,2,2,2,1,3
+"246","neuroticism","Anxious, easily upset","tar04",2,2,2,1,2,1,3,3,3,4,3
+"247","neuroticism","Anxious, easily upset","tar10",1,2,1,1,2,2,1,2,1,1,1
+"248","neuroticism","Anxious, easily upset","tar03",3,5,4,2,2,1,4,2,1,4,3
+"249","neuroticism","Anxious, easily upset","tar11",3,5,2,3,4,2,2,4,3,3,3
+"250","neuroticism","Anxious, easily upset","tar02",4,5,4,5,3,2,3,3,3,4,5
+"251","neuroticism","Anxious, easily upset","tar09",2,5,5,4,3,2,3,3,3,3,5
+"252","neuroticism","Anxious, easily upset","tar06",2,3,1,3,3,1,1,3,1,2,3
+"253","neuroticism","Anxious, easily upset","tar05",2,2,4,2,1,2,1,2,1,2,2
+"254","neuroticism","Calm, emotionally stable","tar07",2,2,1,1,3,2,3,2,1,1,1
+"255","neuroticism","Calm, emotionally stable","tar08",3,4,2,4,3,2,2,2,4,4,4
+"256","neuroticism","Calm, emotionally stable","tar01",2,2,1,1,1,2,1,2,1,1,1
+"257","neuroticism","Calm, emotionally stable","tar04",2,2,1,2,2,1,4,2,2,1,2
+"258","neuroticism","Calm, emotionally stable","tar10",2,4,2,2,5,3,2,3,3,1,1
+"259","neuroticism","Calm, emotionally stable","tar03",2,4,4,2,3,2,3,2,4,2,2
+"260","neuroticism","Calm, emotionally stable","tar11",2,4,2,3,4,2,3,3,4,3,2
+"261","neuroticism","Calm, emotionally stable","tar02",3,4,4,4,5,2,4,3,2,5,2
+"262","neuroticism","Calm, emotionally stable","tar09",2,4,2,4,4,2,4,3,3,2,5
+"263","neuroticism","Calm, emotionally stable","tar06",2,2,2,3,2,2,3,3,1,1,3
+"264","neuroticism","Calm, emotionally stable","tar05",2,1,2,3,1,2,4,1,1,1,2
+"265","openness","Conventional, uncreative","tar07",5,5,4,4,4,4,5,4,4,5,5
+"266","openness","Conventional, uncreative","tar08",2,1,2,2,2,3,3,2,1,2,4
+"267","openness","Conventional, uncreative","tar01",3,1,2,2,3,3,4,3,4,1,3
+"268","openness","Conventional, uncreative","tar04",4,3,2,5,4,3,4,3,3,5,3
+"269","openness","Conventional, uncreative","tar10",3,4,5,5,2,5,5,2,5,5,4
+"270","openness","Conventional, uncreative","tar03",3,3,2,3,3,3,2,3,4,2,3
+"271","openness","Conventional, uncreative","tar11",2,1,4,3,3,3,4,2,1,3,3
+"272","openness","Conventional, uncreative","tar02",4,4,4,4,3,4,5,3,3,5,5
+"273","openness","Conventional, uncreative","tar09",3,5,4,4,3,3,5,3,2,5,3
+"274","openness","Conventional, uncreative","tar06",3,2,2,3,3,3,4,3,3,2,3
+"275","openness","Conventional, uncreative","tar05",3,4,4,3,4,3,5,4,4,4,3
+"276","openness","Open to new experiences, complex","tar07",5,5,4,4,5,5,5,4,2,3,4
+"277","openness","Open to new experiences, complex","tar08",2,1,2,1,2,4,2,3,1,1,2
+"278","openness","Open to new experiences, complex","tar01",4,2,4,2,4,4,4,3,3,2,3
+"279","openness","Open to new experiences, complex","tar04",4,5,2,5,3,4,3,3,4,2,3
+"280","openness","Open to new experiences, complex","tar10",5,5,5,5,3,5,4,4,5,5,4
+"281","openness","Open to new experiences, complex","tar03",2,3,1,2,4,4,2,2,4,2,3
+"282","openness","Open to new experiences, complex","tar11",3,1,4,2,2,4,3,2,1,2,4
+"283","openness","Open to new experiences, complex","tar02",5,5,2,4,3,5,5,3,5,5,4
+"284","openness","Open to new experiences, complex","tar09",3,4,2,4,3,4,4,3,5,4,3
+"285","openness","Open to new experiences, complex","tar06",3,3,4,3,3,4,3,3,2,3,3
+"286","openness","Open to new experiences, complex","tar05",4,4,4,5,5,4,4,5,4,4,3
+"287","responsible","Is responsible","tar07",5,5,4,5,4,5,4,4,5,4,5
+"288","responsible","Is responsible","tar08",4,5,4,5,4,5,5,4,3,5,5
+"289","responsible","Is responsible","tar01",4,5,3,3,4,5,5,5,4,5,5
+"290","responsible","Is responsible","tar04",4,2,4,4,4,5,4,4,4,3,4
+"291","responsible","Is responsible","tar10",4,4,4,4,3,5,4,4,3,4,5
+"292","responsible","Is responsible","tar03",4,3,4,4,3,5,4,4,4,4,3
+"293","responsible","Is responsible","tar11",4,5,4,3,3,5,5,3,5,3,5
+"294","responsible","Is responsible","tar02",5,5,4,5,4,5,5,4,5,5,5
+"295","responsible","Is responsible","tar09",4,1,4,3,2,5,5,3,4,4,4
+"296","responsible","Is responsible","tar06",4,2,4,5,3,5,4,4,4,2,5
+"297","responsible","Is responsible","tar05",4,4,4,3,4,5,5,4,4,2,4
+"298","selfesteem","Feels they have a lot to be proud of","tar07",4,4,5,4,3,5,4,3,5,5,5
+"299","selfesteem","Feels they have a lot to be proud of","tar08",2,4,4,5,3,4,3,5,3,4,3
+"300","selfesteem","Feels they have a lot to be proud of","tar01",2,3,4,3,4,4,4,4,3,4,3
+"301","selfesteem","Feels they have a lot to be proud of","tar04",3,4,4,3,3,4,4,3,2,4,4
+"302","selfesteem","Feels they have a lot to be proud of","tar10",4,5,5,4,4,5,4,5,5,5,4
+"303","selfesteem","Feels they have a lot to be proud of","tar03",2,2,3,3,3,5,2,3,2,2,3
+"304","selfesteem","Feels they have a lot to be proud of","tar11",3,3,4,3,2,5,2,3,2,3,3
+"305","selfesteem","Feels they have a lot to be proud of","tar02",3,4,4,4,3,5,4,5,4,2,4
+"306","selfesteem","Feels they have a lot to be proud of","tar09",3,1,4,2,2,4,2,3,1,2,2
+"307","selfesteem","Feels they have a lot to be proud of","tar06",3,3,4,3,3,5,3,3,3,3,3
+"308","selfesteem","Feels they have a lot to be proud of","tar05",3,3,4,3,2,5,4,4,4,5,3
+"309","selfesteem","Has high self-esteem","tar07",5,4,5,4,4,5,4,4,4,4,5
+"310","selfesteem","Has high self-esteem","tar08",4,3,4,4,4,5,4,5,4,3,4
+"311","selfesteem","Has high self-esteem","tar01",3,3,3,3,4,5,3,4,2,4,4
+"312","selfesteem","Has high self-esteem","tar04",4,4,4,4,5,5,4,4,2,4,4
+"313","selfesteem","Has high self-esteem","tar10",5,5,5,5,5,5,4,4,5,5,5
+"314","selfesteem","Has high self-esteem","tar03",4,2,2,4,5,5,2,4,4,2,4
+"315","selfesteem","Has high self-esteem","tar11",4,3,4,3,2,5,3,3,2,2,4
+"316","selfesteem","Has high self-esteem","tar02",3,4,3,3,4,5,5,4,3,2,4
+"317","selfesteem","Has high self-esteem","tar09",4,1,3,1,2,5,2,3,1,1,1
+"318","selfesteem","Has high self-esteem","tar06",4,4,4,3,3,5,4,4,3,3,4
+"319","selfesteem","Has high self-esteem","tar05",4,4,4,5,5,5,4,4,4,5,5
+"320","selfesteem","On the whole, is satisfied with themselves","tar07",5,4,4,4,4,5,5,5,4,5,5
+"321","selfesteem","On the whole, is satisfied with themselves","tar08",4,4,4,4,5,5,4,5,4,4,5
+"322","selfesteem","On the whole, is satisfied with themselves","tar01",4,4,4,3,4,5,3,4,3,4,5
+"323","selfesteem","On the whole, is satisfied with themselves","tar04",4,4,5,3,5,5,4,4,2,4,4
+"324","selfesteem","On the whole, is satisfied with themselves","tar10",5,5,5,5,3,5,4,5,5,5,5
+"325","selfesteem","On the whole, is satisfied with themselves","tar03",4,2,3,4,4,5,3,4,3,2,4
+"326","selfesteem","On the whole, is satisfied with themselves","tar11",4,3,5,3,2,5,4,3,2,3,4
+"327","selfesteem","On the whole, is satisfied with themselves","tar02",4,5,3,4,5,5,5,5,2,2,5
+"328","selfesteem","On the whole, is satisfied with themselves","tar09",4,1,4,1,2,5,3,4,1,1,1
+"329","selfesteem","On the whole, is satisfied with themselves","tar06",4,3,4,3,3,5,4,4,3,3,4
+"330","selfesteem","On the whole, is satisfied with themselves","tar05",4,4,4,5,5,5,4,4,4,5,4
+"331","selfesteem","Takes a positive attitude toward themselves","tar07",5,4,4,3,3,5,4,4,4,5,5
+"332","selfesteem","Takes a positive attitude toward themselves","tar08",3,4,4,4,4,5,4,5,4,3,4
+"333","selfesteem","Takes a positive attitude toward themselves","tar01",3,4,4,3,3,5,4,3,3,4,4
+"334","selfesteem","Takes a positive attitude toward themselves","tar04",3,3,3,4,5,5,3,3,2,4,3
+"335","selfesteem","Takes a positive attitude toward themselves","tar10",5,5,5,5,1,5,4,4,5,5,5
+"336","selfesteem","Takes a positive attitude toward themselves","tar03",4,2,2,3,3,5,2,4,4,1,4
+"337","selfesteem","Takes a positive attitude toward themselves","tar11",3,3,4,3,3,5,3,3,2,4,4
+"338","selfesteem","Takes a positive attitude toward themselves","tar02",3,4,2,4,4,5,4,5,3,2,4
+"339","selfesteem","Takes a positive attitude toward themselves","tar09",3,1,2,1,1,5,2,3,1,1,1
+"340","selfesteem","Takes a positive attitude toward themselves","tar06",4,4,4,3,3,5,3,3,3,4,3
+"341","selfesteem","Takes a positive attitude toward themselves","tar05",4,4,4,5,5,5,4,4,4,4,3
+"342","similarity","You are similar to them","tar07",2,4,3,3,1,4,5,1,3,4,3
+"343","similarity","You are similar to them","tar08",3,2,1,1,2,4,3,5,2,1,3
+"344","similarity","You are similar to them","tar01",5,2,3,1,1,4,3,2,4,1,3
+"345","similarity","You are similar to them","tar04",3,2,1,5,4,4,4,1,4,4,3
+"346","similarity","You are similar to them","tar10",2,3,3,4,1,4,5,1,3,5,4
+"347","similarity","You are similar to them","tar03",3,2,5,2,1,4,3,2,4,3,2
+"348","similarity","You are similar to them","tar11",3,4,1,2,2,4,3,1,4,4,5
+"349","similarity","You are similar to them","tar02",2,5,1,3,4,4,5,2,4,5,4
+"350","similarity","You are similar to them","tar09",3,3,5,4,1,4,4,1,5,4,4
+"351","similarity","You are similar to them","tar06",4,1,1,2,1,4,3,2,2,1,2
+"352","similarity","You are similar to them","tar05",2,4,2,1,5,2,4,2,3,4,3
+"353","similarity","You Identify with them","tar07",4,5,4,3,1,5,5,2,2,5,3
+"354","similarity","You Identify with them","tar08",1,1,1,1,2,5,2,5,1,1,3
+"355","similarity","You Identify with them","tar01",5,3,2,2,3,4,3,2,3,4,3
+"356","similarity","You Identify with them","tar04",3,2,2,5,4,4,4,2,3,4,3
+"357","similarity","You Identify with them","tar10",4,5,4,5,2,4,5,1,2,5,4
+"358","similarity","You Identify with them","tar03",4,1,5,2,1,4,2,4,4,4,2
+"359","similarity","You Identify with them","tar11",2,5,1,1,3,3,3,1,3,4,5
+"360","similarity","You Identify with them","tar02",4,5,2,4,4,4,5,4,3,5,4
+"361","similarity","You Identify with them","tar09",2,4,5,4,1,4,4,1,5,5,4
+"362","similarity","You Identify with them","tar06",3,2,2,2,1,5,3,2,2,1,3
+"363","similarity","You Identify with them","tar05",3,4,2,1,5,2,3,3,2,3,4
+"364","similarity","You think your personality is similar to theirs","tar07",2,4,3,3,1,4,5,1,4,4,2
+"365","similarity","You think your personality is similar to theirs","tar08",4,3,1,1,2,4,2,5,2,1,1
+"366","similarity","You think your personality is similar to theirs","tar01",5,1,2,1,2,3,2,1,5,1,2
+"367","similarity","You think your personality is similar to theirs","tar04",3,2,1,5,4,4,3,1,5,2,2
+"368","similarity","You think your personality is similar to theirs","tar10",2,4,3,4,1,3,4,1,1,5,3
+"369","similarity","You think your personality is similar to theirs","tar03",3,3,5,2,1,4,4,2,3,3,3
+"370","similarity","You think your personality is similar to theirs","tar11",3,4,1,2,2,2,2,2,4,4,5
+"371","similarity","You think your personality is similar to theirs","tar02",2,5,1,3,3,3,3,1,5,5,3
+"372","similarity","You think your personality is similar to theirs","tar09",4,2,4,4,1,4,4,2,5,3,3
+"373","similarity","You think your personality is similar to theirs","tar06",4,1,2,2,1,4,3,2,2,1,1
+"374","similarity","You think your personality is similar to theirs","tar05",2,4,2,2,5,2,4,1,2,3,3
+"375","sociable","Is sociable","tar07",5,5,5,4,3,4,3,3,3,5,5
+"376","sociable","Is sociable","tar08",1,2,4,1,2,4,2,2,2,1,2
+"377","sociable","Is sociable","tar01",3,2,4,1,1,3,3,3,2,2,2
+"378","sociable","Is sociable","tar04",2,4,3,5,3,4,3,2,3,3,4
+"379","sociable","Is sociable","tar10",5,5,5,5,5,5,5,5,5,5,5
+"380","sociable","Is sociable","tar03",4,4,4,3,3,4,2,4,4,3,4
+"381","sociable","Is sociable","tar11",3,2,4,2,2,3,3,2,2,2,4
+"382","sociable","Is sociable","tar02",5,4,4,4,4,5,4,4,2,5,5
+"383","sociable","Is sociable","tar09",3,3,4,4,3,4,3,2,2,3,3
+"384","sociable","Is sociable","tar06",3,2,4,3,2,4,2,2,2,1,2
+"385","sociable","Is sociable","tar05",5,3,4,3,1,3,3,4,2,1,5
+"386","trustworthy","Is trustworthy","tar07",5,5,4,3,3,5,4,3,5,4,5
+"387","trustworthy","Is trustworthy","tar08",3,2,4,4,4,5,4,4,3,4,5
+"388","trustworthy","Is trustworthy","tar01",5,4,4,3,4,5,3,3,4,4,4
+"389","trustworthy","Is trustworthy","tar04",4,4,4,5,3,5,4,3,5,2,3
+"390","trustworthy","Is trustworthy","tar10",4,2,5,5,1,5,5,2,5,4,2
+"391","trustworthy","Is trustworthy","tar03",4,4,4,3,3,5,4,3,5,4,3
+"392","trustworthy","Is trustworthy","tar11",4,5,3,3,3,5,4,3,5,3,4
+"393","trustworthy","Is trustworthy","tar02",5,5,4,5,4,5,5,3,5,5,5
+"394","trustworthy","Is trustworthy","tar09",4,5,5,4,3,5,5,3,5,5,5
+"395","trustworthy","Is trustworthy","tar06",4,4,5,4,3,5,4,3,4,4,3
+"396","trustworthy","Is trustworthy","tar05",4,5,4,3,3,5,3,4,4,2,4
+"397","unhappy","Is unhappy","tar07",1,2,1,1,2,1,2,2,1,1,1
+"398","unhappy","Is unhappy","tar08",3,3,2,2,3,1,2,2,2,2,2
+"399","unhappy","Is unhappy","tar01",3,4,2,2,2,1,2,2,3,2,2
+"400","unhappy","Is unhappy","tar04",2,2,2,1,2,1,2,2,2,3,2
+"401","unhappy","Is unhappy","tar10",1,2,1,1,3,1,2,2,1,1,1
+"402","unhappy","Is unhappy","tar03",1,2,2,1,1,1,2,2,2,4,2
+"403","unhappy","Is unhappy","tar11",2,4,2,2,4,1,3,3,3,4,3
+"404","unhappy","Is unhappy","tar02",1,2,3,1,3,1,2,2,1,2,2
+"405","unhappy","Is unhappy","tar09",3,4,2,3,4,1,3,3,5,4,4
+"406","unhappy","Is unhappy","tar06",1,2,2,1,2,1,2,3,2,2,3
+"407","unhappy","Is unhappy","tar05",1,2,2,1,1,1,2,2,1,2,2
+"408","warmth","Is good natured","tar07",5,5,4,4,3,5,4,4,5,4,5
+"409","warmth","Is good natured","tar08",3,2,4,2,4,5,4,4,4,2,5
+"410","warmth","Is good natured","tar01",3,4,4,2,3,5,4,2,3,2,5
+"411","warmth","Is good natured","tar04",3,4,4,3,3,5,4,3,4,4,5
+"412","warmth","Is good natured","tar10",4,5,5,5,1,5,4,4,5,5,5
+"413","warmth","Is good natured","tar03",4,4,4,4,4,5,5,5,5,4,4
+"414","warmth","Is good natured","tar11",3,4,4,3,4,5,3,4,4,4,5
+"415","warmth","Is good natured","tar02",4,4,4,4,5,5,5,5,4,5,5
+"416","warmth","Is good natured","tar09",3,5,5,4,3,5,4,3,4,4,5
+"417","warmth","Is good natured","tar06",4,4,5,4,3,5,4,4,4,4,4
+"418","warmth","Is good natured","tar05",4,5,4,3,2,5,4,5,5,4,5
+"419","warmth","Is sincere","tar07",4,4,4,4,2,5,3,3,3,4,5
+"420","warmth","Is sincere","tar08",4,4,4,3,4,5,5,3,3,4,5
+"421","warmth","Is sincere","tar01",5,4,4,2,3,5,3,3,4,3,5
+"422","warmth","Is sincere","tar04",4,4,5,4,2,5,3,3,4,5,5
+"423","warmth","Is sincere","tar10",5,2,5,5,1,5,4,2,5,3,2
+"424","warmth","Is sincere","tar03",4,4,4,4,4,5,5,4,5,5,5
+"425","warmth","Is sincere","tar11",4,4,3,4,4,5,5,3,4,3,5
+"426","warmth","Is sincere","tar02",5,5,4,5,4,5,4,3,5,5,5
+"427","warmth","Is sincere","tar09",4,5,4,4,3,5,5,3,4,5,5
+"428","warmth","Is sincere","tar06",4,3,4,5,3,5,4,4,3,3,5
+"429","warmth","Is sincere","tar05",4,4,4,3,2,5,2,3,3,3,5
+"430","warmth","Is tolerant","tar07",5,4,5,4,5,5,3,3,4,3,3
+"431","warmth","Is tolerant","tar08",4,1,5,2,3,5,5,4,3,1,2
+"432","warmth","Is tolerant","tar01",4,2,4,2,5,5,3,3,1,2,3
+"433","warmth","Is tolerant","tar04",4,4,4,5,5,5,3,3,3,1,4
+"434","warmth","Is tolerant","tar10",5,5,5,4,5,4,4,3,4,4,4
+"435","warmth","Is tolerant","tar03",4,4,4,4,5,5,4,3,4,4,3
+"436","warmth","Is tolerant","tar11",4,1,5,3,4,4,3,3,1,4,3
+"437","warmth","Is tolerant","tar02",5,4,4,3,5,4,3,4,2,4,4
+"438","warmth","Is tolerant","tar09",3,5,5,4,4,5,3,3,5,5,5
+"439","warmth","Is tolerant","tar06",4,3,4,4,4,5,4,3,4,4,4
+"440","warmth","Is tolerant","tar05",5,4,5,4,5,5,3,4,2,4,3
+"441","warmth","Is warm","tar07",5,4,4,3,2,4,3,3,3,2,4
+"442","warmth","Is warm","tar08",3,2,4,2,2,5,4,4,3,2,4
+"443","warmth","Is warm","tar01",3,1,2,1,1,4,2,2,2,1,3
+"444","warmth","Is warm","tar04",2,2,1,3,1,5,2,2,3,1,2
+"445","warmth","Is warm","tar10",5,4,5,5,2,5,5,4,4,4,5
+"446","warmth","Is warm","tar03",3,4,4,4,4,4,2,5,4,4,4
+"447","warmth","Is warm","tar11",3,1,4,3,2,4,4,2,1,4,5
+"448","warmth","Is warm","tar02",4,5,4,4,3,5,4,5,4,5,5
+"449","warmth","Is warm","tar09",2,2,4,3,2,4,2,2,3,4,2
+"450","warmth","Is warm","tar06",3,3,4,3,2,5,4,3,4,4,4
+"451","warmth","Is warm","tar05",5,2,2,3,1,4,4,3,4,4,4
+"452","weird","Is weird","tar07",2,3,3,3,2,1,4,3,2,1,3
+"453","weird","Is weird","tar08",2,3,4,4,3,1,1,3,2,1,3
+"454","weird","Is weird","tar01",2,2,3,4,2,1,2,3,3,2,3
+"455","weird","Is weird","tar04",1,1,4,4,3,1,2,3,2,2,3
+"456","weird","Is weird","tar10",2,2,3,3,1,1,2,2,1,3,3
+"457","weird","Is weird","tar03",2,2,4,1,1,1,3,2,1,2,3
+"458","weird","Is weird","tar11",1,4,3,3,1,1,3,3,2,1,3
+"459","weird","Is weird","tar02",2,4,4,3,4,1,3,2,4,3,3
+"460","weird","Is weird","tar09",1,2,4,2,2,1,2,3,1,1,3
+"461","weird","Is weird","tar06",1,1,2,1,2,1,2,3,1,2,3
+"462","weird","Is weird","tar05",1,4,4,5,5,1,2,3,4,4,3
