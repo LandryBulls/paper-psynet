@@ -8,11 +8,13 @@ The contents of this repository are also available on the Open Science Framework
 
 # Materials
 
-(Psychopy)[http://www.psychopy.org/] scripts are provided for running the behavioral (**behavioral_ratings_task**) and neuroimaging (**fMRI_task**) components of this study. Real names of the targets that were used during the actualy study have been replaced with generic identifies (e.g. 'name1') to protect participants privacy. The tasks were administered using Psychopy v.1.83.04 running on a Lenovo Thinkpad.
+[Psychopy](http://www.psychopy.org/) scripts are provided for running the behavioral (**behavioral_ratings_task**) and neuroimaging (**fMRI_task**) components of this study. Real names of the targets that were used during the actualy study have been replaced with generic identifies (e.g. 'name1') to protect the privacy of participants. The tasks were administered using Psychopy v.1.83.04 running on a Lenovo Thinkpad.
 
 # Analysis notebooks
 
-Notebooks in both [R Markdown](https://rmarkdown.rstudio.com/) and [Jupyter](http://jupyter.org/) (using the R kernel) format are included for generating the results and figures from the manuscript based on the behavioral and neural datasets (i.e., **behaviroal_ratings.csv** and **fmri_vmpfc_betas**).
+Notebooks in both [R Markdown](https://rmarkdown.rstudio.com/) and [Jupyter](http://jupyter.org/) format are included for generating the results and figures from the manuscript based on the behavioral and neural datasets (i.e., **behaviroal_ratings.csv** and **fmri_vmpfc_betas**).
+
+Note that the Jupyter notebook requires that you have a working R kernel. See [https://github.com/IRkernel/IRkernel](https://github.com/IRkernel/IRkernel) for more information.
 
 ## Description of files
 
